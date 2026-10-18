@@ -1,0 +1,8 @@
+{
+  "name": "Al-Quran Audio - Free Quran Recitation Streaming",
+  "description": "100% free modern dark-themed Quran audio streaming mobile app with seamless playback, famous reciters, and full Flutter source architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
